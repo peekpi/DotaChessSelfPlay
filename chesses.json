@@ -1,0 +1,14 @@
+[
+{
+    "Name": ["AXE", "斧王"],
+    "Career" : "CareerSoldier",
+    "Race" : ["RaceOrc"],
+    "Color": "ColorWhite"
+},
+{
+    "Name": ["-", "魅惑魔女"],
+    "Career" : "CareerDruid",
+    "Race" : ["RaceBeast"],
+    "Color": "ColorWhite"
+}
+]
